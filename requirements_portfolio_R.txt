@@ -1,0 +1,7 @@
+# R package requirements — install via install.packages()
+# Run sessionInfo() in R and paste exact versions here once confirmed.
+
+quantmod>=0.4.20
+PerformanceAnalytics>=2.0.4
+rugarch>=1.4
+xts>=0.12
